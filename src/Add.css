@@ -1,0 +1,35 @@
+#editableP{
+    width: 80%;
+    height: 80%;
+    border: 1px solid white;;
+    
+}
+.container{
+    background-color: black;
+    width: 20vw;
+    height: 30vh;
+    color:white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 10px;
+    margin-top: 10px;
+     
+}
+.o{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.outer{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 80%;
+}
+.archa{
+    background-color: lightblue;
+}
+.con{
+    background-color: blueviolet;
+}
